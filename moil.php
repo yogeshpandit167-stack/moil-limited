@@ -98,7 +98,7 @@ nav a:hover {
 }
 
 .banner p {
-    font-size: 18px;
+    font-size: 19px;
     margin-top: 15px;
 }
 
@@ -119,7 +119,7 @@ main {
 
 .about h2 {
     color: #123456;
-    margin-bottom: 15px;
+    margin-bottom: 16px;
 }
 
 /* Services */
@@ -130,7 +130,7 @@ main {
 }
 
 .services h2 {
-    color: #123456;
+    color:rgb(23, 68, 112);
     margin-bottom: 25px;
 }
 
